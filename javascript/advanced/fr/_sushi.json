@@ -1,0 +1,42 @@
+{
+  "series_title": "JavaScript Avancé",
+  "language": "en",
+  "subject": "javascript",
+  "description": "Covers JavaScript Avancé topics, culminating in a project to build a web app.",
+  "author": "CoderDojo Foundation",
+  "website": "https://coderdojo.com",
+  "twitter": "CoderDojo",
+  "difficulty": 3,
+  "cards": [
+    {
+      "title": "Mise en place",
+      "filename": "01",
+      "card_number": 1
+    },
+    {
+      "title": "Définition du projet & connections des buttons",
+      "filename": "02",
+      "card_number": 2
+    },
+    {
+      "title": "Créer une liste",
+      "filename": "03",
+      "card_number": 3
+    },
+    {
+      "title": "Ajouter un élément à la liste",
+      "filename": "04",
+      "card_number": 4
+    },
+    {
+      "title": "Marquer un élément comme étant complété",
+      "filename": "05",
+      "card_number": 5
+    },
+    {
+      "title": "Vider la liste",
+      "filename": "06",
+      "card_number": 6
+    }
+  ]
+}
